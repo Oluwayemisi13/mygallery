@@ -1,0 +1,39 @@
+.Download{
+float:right;
+background-color: red;
+color:white;
+border-radius: 100px;
+}
+.first{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxlBoAOljfrCQjU3D9WjE-6mf5CAq9mUSJw&usqp=CAU");
+background-repeat:no-repeat;
+background-size:cover;
+text-align:center;
+height:300px;
+}
+
+h1{
+Color:white;
+}
+p{
+color:white;
+text-align:center;
+}
+
+.second{
+background- color:white;
+text-align:Center;
+
+}
+.all{
+background-color:blue;
+color:white;
+border-radius:100px;
+padding:5px 10px;
+}
+
+.third{
+text-align:center;
+padding:0;
+margin: 20px;
+}
